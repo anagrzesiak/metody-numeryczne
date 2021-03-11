@@ -1,3 +1,5 @@
+#rk method
+
 def f(x, y):
     return x * x + y
 
